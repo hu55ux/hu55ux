@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - ⚡ **Passion:** Building scalable web applications and clean architecture.
-- 🎓 **Focus:** Currently deep-diving into **ASP.NET Core** and **React** ecosystems.
+- 🎓 **Focus:** Currently deep-diving into AWS Cloud and cloud-native development ecosystems.
 - 🏳️ **Life Motto:** "Hala Madrid y nada más!"
 - ✉️ **Contact:** Feel free to reach out at [hsbziyev@gmail.com](mailto:hsbziyev@gmail.com)
 
